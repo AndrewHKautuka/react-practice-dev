@@ -7,4 +7,6 @@ main {
 
 #country-select {
   width: 12rem;
+  height: fit-content;
+  padding: 0.5rem;
 }
