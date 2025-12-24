@@ -8,5 +8,8 @@
     "template"
   ],
   "author": "Andrew H Kautuka",
-  "packageManager": "pnpm@10.23.0"
+  "packageManager": "pnpm@10.23.0",
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
 }
