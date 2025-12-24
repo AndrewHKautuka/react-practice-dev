@@ -1,0 +1,6 @@
+# Ignore lockfiles
+pnpm-lock.yaml
+package-lock.json
+
+# Ignore build output
+dist
