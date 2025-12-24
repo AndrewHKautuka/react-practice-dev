@@ -1,0 +1,9 @@
+{
+  "editor.detectIndentation": true,
+  "editor.formatOnSave": true,
+  "editor.indentSize": 2,
+  "editor.insertSpaces": true,
+  
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+}
