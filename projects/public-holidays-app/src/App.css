@@ -10,3 +10,8 @@ main {
   height: fit-content;
   padding: 0.5rem;
 }
+
+.holiday-list-loading,
+.holiday-list {
+  color: black;
+}
