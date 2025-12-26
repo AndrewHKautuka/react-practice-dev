@@ -1,13 +1,13 @@
 export type IsoCode = string
 
-interface CountryName {
+interface LocalizedText {
   language: IsoCode
   text: string
 }
 
 export interface CountryResponse {
   isoCode: IsoCode
-  name: CountryName[]
+  name: LocalizedText[]
   officialLanguages: IsoCode[]
 }
 
